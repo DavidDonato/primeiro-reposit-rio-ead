@@ -1,2 +1,2 @@
-# primeiro-reposit-rio-ead
+# primeiro-repositorio-ead
 Primeiro da aula fullstack ead
